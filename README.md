@@ -1,3 +1,5 @@
+Project URL Link
+[Customer Sales & Shipping Analysis – Excel Dashboard.xlsx](https://github.com/user-attachments/files/24552809/Customer.Sales.Shipping.Analysis.Excel.Dashboard.xlsx)
 # 📊 Customer Sales & Shipping Analysis – Excel Dashboard
 
 This project was created as part of my **6-day Excel learning journey** (5 Jan 2026 – 10 Jan 2026).
